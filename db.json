@@ -6,6 +6,13 @@
         "creditAmount" : "30000.00",
         "comment" : ""
     },
+    {
+        "fullName" : "Романенко Антонина Николаевна",
+        "date" : "07/07/2020",
+        "applicationStatus" : "Не одобрена",
+        "creditAmount" : "80000.00",
+        "comment" : ""
+    },
         {
         "fullName" : "Павлова Анна Константиновна",
         "date" : "15/03/2020",
